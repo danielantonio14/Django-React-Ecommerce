@@ -11,7 +11,7 @@ django-anymail==10.2
 django-cors-headers==3.14.0
 django-jazzmin==2.6.0
 django-storages==1.12.3
-django-ckeditor-5==0.4.4
+django-ckeditor-5
 djangorestframework==3.14.0
 djangorestframework-simplejwt==5.2.2
 drf-yasg==1.21.7
